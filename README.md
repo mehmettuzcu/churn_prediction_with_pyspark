@@ -8,14 +8,14 @@
 
 ## *Variable Description:*
 
-Surname – Customer's Surname
-CreditScore – Customer's Credit score
-Geography – Country (Germany/France/Spain)
-Gender – Customer's Gender
-Age – Customer's Age
-Tenure – How many years of customers
-NumOfProducts – Used bank product
-HasCrCard – Credit card status (0=No,1=Yes)
-IsActiveMember – Active membership status (0=No,1=Yes)
-EstimatedSalary – Estimated salary
-Exited: –  Churn or Not Churn (0=No,1=Yes)
+* Surname – Customer's Surname
+* CreditScore – Customer's Credit score
+* Geography – Country (Germany/France/Spain)
+* Gender – Customer's Gender
+* Age – Customer's Age
+* Tenure – How many years of customers
+* NumOfProducts – Used bank product
+* HasCrCard – Credit card status (0=No,1=Yes)
+* IsActiveMember – Active membership status (0=No,1=Yes)
+* EstimatedSalary – Estimated salary
+* Exited: –  Churn or Not Churn (0=No,1=Yes)
