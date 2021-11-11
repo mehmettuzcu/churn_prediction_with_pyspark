@@ -1,8 +1,8 @@
-### *Business Problem:*
+## *Business Problem:*
 
 * Predicting customers to leave the company a machine learning model that can development is expected.
 
-### *Dataset story:*
+## *Dataset story:*
 
 * It consists of 10000 observations and 12 variables. The independent variables contain information about customers. The dependent variable represents the customer abandonment status.
 
